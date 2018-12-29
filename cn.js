@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://palembang.blog/cek-keamanan-palembang-blog/?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://cryptonews.co.id/fitur-keamanan-cryptonews/?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
